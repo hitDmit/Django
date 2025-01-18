@@ -17,3 +17,9 @@ pipenv install --dev
 ```
 pipenv run pre-commit run --all
 ```
+
+# Запуск виртуального окружения
+```
+UBUNTU
+source .venv/bin/activate
+```
